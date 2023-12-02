@@ -1,9 +1,87 @@
-<mxfile host="app.diagrams.net" modified="2023-12-02T06:25:53.939Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" version="22.1.5" etag="dSCQgcu4Q9mi_1vgcHbW" type="github">
+<mxfile host="app.diagrams.net" modified="2023-12-02T06:40:35.765Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="kDMfDAusmCyY0WnBnVRx" version="22.1.5" type="github">
   <diagram name="Halaman-1" id="PNLVTwH9YgD_ATWo4nMF">
-    <mxGraphModel>
+    <mxGraphModel dx="1746" dy="1079" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="CWI_NbLLG5ukVOUFupSl-6" value="" style="whiteSpace=wrap;html=1;aspect=fixed;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="100" y="90" width="590" height="590" as="geometry" />
+        </mxCell>
+        <mxCell id="CWI_NbLLG5ukVOUFupSl-8" value="" style="whiteSpace=wrap;html=1;aspect=fixed;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="190" y="140" width="410" height="410" as="geometry" />
+        </mxCell>
+        <mxCell id="CWI_NbLLG5ukVOUFupSl-2" value="&lt;h5&gt;Compute Engine&lt;/h5&gt;ML Model" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="430" y="190" width="120" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="CWI_NbLLG5ukVOUFupSl-3" value="&lt;h5&gt;Compute Engine&lt;/h5&gt;&lt;div&gt;Rest API&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="240" y="350" width="120" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="CWI_NbLLG5ukVOUFupSl-4" value="&lt;h5&gt;Compute Engine&lt;/h5&gt;&lt;div&gt;Mobile App&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="240" y="190" width="120" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="CWI_NbLLG5ukVOUFupSl-7" value="Cloud SQL&lt;br&gt;&lt;br&gt;MySql" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="445" y="325" width="90" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="CWI_NbLLG5ukVOUFupSl-9" value="Google Cloud" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="100" y="80" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="CWI_NbLLG5ukVOUFupSl-10" value="asia-southeast2" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="200" y="130" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="CWI_NbLLG5ukVOUFupSl-11" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="CWI_NbLLG5ukVOUFupSl-3" target="CWI_NbLLG5ukVOUFupSl-4">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="310" y="370" as="sourcePoint" />
+            <mxPoint x="360" y="320" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CWI_NbLLG5ukVOUFupSl-12" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="CWI_NbLLG5ukVOUFupSl-3" target="CWI_NbLLG5ukVOUFupSl-7">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="310" y="370" as="sourcePoint" />
+            <mxPoint x="360" y="320" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CWI_NbLLG5ukVOUFupSl-13" value="" style="whiteSpace=wrap;html=1;aspect=fixed;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="840" y="90" width="590" height="590" as="geometry" />
+        </mxCell>
+        <mxCell id="CWI_NbLLG5ukVOUFupSl-14" value="" style="whiteSpace=wrap;html=1;aspect=fixed;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="930" y="140" width="410" height="410" as="geometry" />
+        </mxCell>
+        <mxCell id="CWI_NbLLG5ukVOUFupSl-15" value="&lt;h5&gt;Compute Engine&lt;/h5&gt;ML Model" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="1170" y="190" width="120" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="CWI_NbLLG5ukVOUFupSl-16" value="&lt;h5&gt;Compute Engine&lt;/h5&gt;&lt;div&gt;Rest API&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="980" y="350" width="120" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="CWI_NbLLG5ukVOUFupSl-17" value="&lt;h5&gt;Compute Engine&lt;/h5&gt;&lt;div&gt;Mobile App&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="980" y="190" width="120" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="CWI_NbLLG5ukVOUFupSl-18" value="Cloud SQL&lt;br&gt;&lt;br&gt;MySql" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="1185" y="325" width="90" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="CWI_NbLLG5ukVOUFupSl-19" value="Google Cloud" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="840" y="80" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="CWI_NbLLG5ukVOUFupSl-20" value="asia-southeast2" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="940" y="130" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="CWI_NbLLG5ukVOUFupSl-21" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="CWI_NbLLG5ukVOUFupSl-16" target="CWI_NbLLG5ukVOUFupSl-17">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1050" y="370" as="sourcePoint" />
+            <mxPoint x="1100" y="320" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CWI_NbLLG5ukVOUFupSl-22" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="CWI_NbLLG5ukVOUFupSl-16" target="CWI_NbLLG5ukVOUFupSl-18">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1050" y="370" as="sourcePoint" />
+            <mxPoint x="1100" y="320" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CWI_NbLLG5ukVOUFupSl-23" value="CattleDiag-Project-Dev" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="335" y="30" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="CWI_NbLLG5ukVOUFupSl-24" value="CattleDiag-Project-Prod" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="1075" y="30" width="120" height="50" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
