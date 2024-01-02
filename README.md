@@ -1,4 +1,4 @@
-# Halo semua! 
+# Halo semua 👋
 
 Perkenalkan nama saya **Irsyad Halimi**.\
 saya memiliki antusias yang tinggi di bidang pemrograman web.\
